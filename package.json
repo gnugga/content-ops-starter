@@ -9,6 +9,8 @@
     "dependencies": {
         "@algolia/autocomplete-js": "^1.17.1",
         "@algolia/autocomplete-theme-classic": "^1.17.1",
+        "@react-three/drei": "^10.7.7",
+        "@react-three/fiber": "^9.5.0",
         "algoliasearch": "^4.24.0",
         "classnames": "^2.5.1",
         "dayjs": "^1.11.11",
@@ -20,7 +22,8 @@
         "react": "^19.1.0",
         "react-dom": "^19.1.0",
         "swiper": "^11.1.4",
-        "tailwindcss": "^3.4.3"
+        "tailwindcss": "^3.4.3",
+        "three": "^0.182.0"
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
@@ -29,6 +32,7 @@
         "@types/glob": "^8.1.0",
         "@types/react": "^19.1.0",
         "@types/react-dom": "^19.1.1",
+        "@types/three": "^0.182.0",
         "autoprefixer": "^10.4.19",
         "prettier": "^3.3.2",
         "typescript": "^5.6.2"
