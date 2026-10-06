@@ -21,7 +21,7 @@ TV** (board). Plain screen mirroring does not do that. Options:
 
 ## Proposed stack
 ```
-quizcast/
+knowledgewar/
   packages/
     engine/      # pure TS: state machine, rules, scoring, answer matching. No I/O. Vitest.
     protocol/    # shared message types (zod schemas)

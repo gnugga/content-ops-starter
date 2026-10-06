@@ -1,4 +1,4 @@
-# QuizCast (working title)
+# KnowledgeWar
 
 A Bezzerwizzer-style trivia party game for phones. One player's phone **hosts** the room and
 **casts the board and questions to a TV** (Apple TV / AirPlay, Chromecast, smart-TV browser).
